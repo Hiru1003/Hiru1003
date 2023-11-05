@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/Hiru1003/Hiru1003/assets/122656994/47919f99-e744-4408-b9ff-8f32e2098c7d)">
+<img align="right" alt="coding" width="300" src="https://github.com/Hiru1003/Hiru1003/assets/122656994/47919f99-e744-4408-b9ff-8f32e2098c7d)">
 
 # Socials:
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
