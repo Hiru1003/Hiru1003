@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hirumi Perera</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1003&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1003" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Hiru1003/Hiru1003/assets/122656994/47919f99-e744-4408-b9ff-8f32e2098c7d)">
 
 # Socials:
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
@@ -20,11 +20,9 @@
 
 
 # Statistics:
-![](https://github-readme-stats.vercel.app/api?username=Hiru1003&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hiru1003&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiru1003&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Hiru1003&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1003&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1003" /> </p>
